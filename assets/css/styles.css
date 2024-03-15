@@ -48,7 +48,7 @@ body{
     margin: 0 auto;
   }
   .contentBodyImg{
-    background-image: url('../img/img1.png');
+    background-image: url('../img/inicio.png');
     background-size: cover;
     width: 300px;
     height: 300px;
@@ -57,6 +57,33 @@ body{
     margin-bottom: 20px;
   }
 
+  .contentBodyImgC{
+    background-image: url('../img/canciones.png');
+    background-size: cover;
+    width: 350px;
+    height: 300px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px rgba(43, 0, 0, 0.911);
+    margin-bottom: 20px;
+  }
+  .contentBodyImgCo{
+    background-image: url('../img/compositores.png');
+    background-size: cover;
+    width: 320px;
+    height: 350px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px rgba(43, 0, 0, 0.911);
+    margin-bottom: 20px;
+  }
+  .contentBodyImgA{
+    background-image: url('../img/acercade.png');
+    background-size: cover;
+    width: 520px;
+    height: 350px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px rgba(43, 0, 0, 0.911);
+    margin-bottom: 20px;
+  }
   .lema{
     font-family: georgia;
     font-style: italic;
