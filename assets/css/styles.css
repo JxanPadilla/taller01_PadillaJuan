@@ -1,6 +1,6 @@
 
 body{
-  background-image: radial-gradient(circle, #ff4444, #be3339, #7f252b, #45171a, #110000);
+  background-image: radial-gradient(circle, #ffff62, #ddad48, #a26839, #593126, #110000);
 }
 
 .titulo-dancing-script {
@@ -11,7 +11,7 @@ body{
   font-style: normal;
 }
 .contentImg{
-    background-image: url('../img/logoNav.png');
+    background-image: url('../img/logoNavA.png');
     width: 30px;
     height: 30px;
     background-size: cover;
@@ -22,9 +22,9 @@ body{
   }
   
   .activo{
-     color: red; 
+     color: rgb(255, 242, 0); 
     text-decoration: underline;
-    text-shadow: 0px 0px 9px rgb(255, 0, 0);
+    text-shadow: 0px 0px 9px rgb(255, 187, 0);
   }
 
   .Ingresar{
